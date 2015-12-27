@@ -1,6 +1,8 @@
 ---
 title: "Prediction Assignment Writeup - Practical Machine Learning Course Project"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 The objective of this project is to predict the manner in which 6 participants performed, correctly and incorrectly, barbell lifts in 5 different ways, using the data from the participant’s accelerometers on their belts, forearms, arms, and dumbbells.  The data consists of two sets: a training data set and a test data set.  The data for this project come from this source: <http://groupware.les.inf.puc-rio.br/har>.  The datasets are stored in comma-separated-value (CSV) files.
